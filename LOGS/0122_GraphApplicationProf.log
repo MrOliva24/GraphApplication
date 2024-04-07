@@ -1,0 +1,51 @@
+26/11/2023 21:00:57: Open executable: C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe
+26/11/2023 21:00:57: Command line: "C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe" 
+26/11/2023 21:00:57: Nom Alumne 1: David
+26/11/2023 21:00:57: Cognoms Alumne : Ruiz CÃ¡ceres
+26/11/2023 21:00:57: NIU Alumne 1: 1672891
+26/11/2023 21:00:57: Nom Alumne 2: Marc
+26/11/2023 21:00:57: Cognoms Alumne 2: Roig Oliva
+26/11/2023 21:00:57: NIU Alumne 2: 1668300
+26/11/2023 21:01:16: OnBnClickedButtonLoadGraph C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestSalesMan\RepeatVertex.GR
+26/11/2023 21:01:16: OK
+26/11/2023 21:01:22: OnBnClickedButtonLoadVisits C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestSalesMan\RepeatVertex.VIS
+26/11/2023 21:01:24: OnBnClickedButtonBranchBound1
+26/11/2023 21:01:24: Run time: 0.000368
+26/11/2023 21:01:36: OnBnClickedButtonBranchBound2
+26/11/2023 21:01:36: Run time: 0.000265
+26/11/2023 21:01:39: OnBnClickedButtonBranchBound1
+26/11/2023 21:01:39: Run time: 0.000320
+26/11/2023 21:01:40: OnBnClickedButtonBranchBound2
+26/11/2023 21:01:40: Run time: 0.000256
+26/11/2023 21:01:42: OnBnClickedButtonBranchBound1
+26/11/2023 21:01:42: Run time: 0.000358
+26/11/2023 21:01:43: OnBnClickedButtonBranchBound2
+26/11/2023 21:01:43: Run time: 0.000362
+26/11/2023 21:01:45: OnBnClickedButtonBranchBound3
+26/11/2023 21:01:45: Run time: 0.000199
+26/11/2023 21:01:46: OnBnClickedButtonBranchBound2
+26/11/2023 21:01:46: Run time: 0.000257
+26/11/2023 21:01:46: OnBnClickedButtonBranchBound3
+26/11/2023 21:01:46: Run time: 0.000215
+26/11/2023 21:01:46: OnBnClickedButtonBranchBound1
+26/11/2023 21:01:46: Run time: 0.000343
+26/11/2023 21:01:47: OnBnClickedButtonBranchBound2
+26/11/2023 21:01:47: Run time: 0.000349
+26/11/2023 21:01:47: OnBnClickedButtonBranchBound3
+26/11/2023 21:01:47: Run time: 0.000159
+26/11/2023 21:01:48: OnBnClickedButtonBranchBound1
+26/11/2023 21:01:48: Run time: 0.000366
+26/11/2023 21:01:49: OnBnClickedButtonBranchBound2
+26/11/2023 21:01:49: Run time: 0.000361
+26/11/2023 21:01:50: OnBnClickedButtonBranchBound2
+26/11/2023 21:01:50: Run time: 0.000288
+26/11/2023 21:01:50: OnBnClickedButtonBranchBound3
+26/11/2023 21:01:50: Run time: 0.000157
+26/11/2023 21:01:53: OnBnClickedButtonBranchBound1
+26/11/2023 21:01:54: Run time: 0.000390
+26/11/2023 21:01:56: OnBnClickedButtonBranchBound2
+26/11/2023 21:01:56: Run time: 0.000343
+26/11/2023 21:01:59: OnBnClickedButtonBranchBound1
+26/11/2023 21:01:59: Run time: 0.000356
+26/11/2023 21:02:01: OnBnClickedButtonBranchBound2
+26/11/2023 21:02:01: Run time: 0.000410

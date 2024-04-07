@@ -1,0 +1,44 @@
+15/11/2023 21:13:53: Open executable: C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe
+15/11/2023 21:13:53: Command line: "C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe" 
+15/11/2023 21:13:53: Nom Alumne 1: David
+15/11/2023 21:13:53: Cognoms Alumne : Ruiz CÃ¡ceres
+15/11/2023 21:13:53: NIU Alumne 1: 1672891
+15/11/2023 21:13:53: Nom Alumne 2: Marc
+15/11/2023 21:13:53: Cognoms Alumne 2: Roig Oliva
+15/11/2023 21:13:53: NIU Alumne 2: 1668300
+15/11/2023 21:13:57: OnBnClickedButtonLoadGraph C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestSalesMan\Graf10_20_3.GR
+15/11/2023 21:13:57: OK
+15/11/2023 21:14:00: OnBnClickedButtonLoadVisits C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestSalesMan\Graf10_20_3.VIS
+15/11/2023 21:14:01: OnBnClickedButtonBacktrackingGreedy
+15/11/2023 21:14:01: Run time: 0.000013
+15/11/2023 21:14:03: OnBnClickedButtonBacktrackingGreedy
+15/11/2023 21:14:03: Run time: 0.000028
+15/11/2023 21:14:03: OnBnClickedButtonBacktrackingGreedy
+15/11/2023 21:14:03: Run time: 0.000029
+15/11/2023 21:14:03: OnBnClickedButtonBacktrackingGreedy
+15/11/2023 21:14:03: Run time: 0.000034
+15/11/2023 21:14:03: OnBnClickedButtonBacktrackingGreedy
+15/11/2023 21:14:03: Run time: 0.000043
+15/11/2023 21:14:04: OnBnClickedButtonBacktrackingGreedy
+15/11/2023 21:14:04: Run time: 0.000031
+15/11/2023 21:14:04: OnBnClickedButtonBacktrackingGreedy
+15/11/2023 21:14:04: Run time: 0.000031
+15/11/2023 21:14:04: OnBnClickedButtonBacktrackingGreedy
+15/11/2023 21:14:04: Run time: 0.000050
+15/11/2023 21:14:06: OnBnClickedButtonBacktracking
+15/11/2023 21:14:06: Run time: 0.000055
+15/11/2023 21:14:07: OnBnClickedButtonBacktrackingGreedy
+15/11/2023 21:14:07: Run time: 0.000032
+15/11/2023 21:14:07: OnBnClickedButtonBacktrackingGreedy
+15/11/2023 21:14:07: Run time: 0.000032
+15/11/2023 21:14:07: OnBnClickedButtonBacktrackingGreedy
+15/11/2023 21:14:07: Run time: 0.000014
+15/11/2023 21:14:08: OnBnClickedButtonBacktrackingGreedy
+15/11/2023 21:14:08: Run time: 0.000032
+15/11/2023 21:14:08: OnBnClickedButtonBacktrackingGreedy
+15/11/2023 21:14:08: Run time: 0.000017
+15/11/2023 21:14:08: OnBnClickedButtonBacktrackingGreedy
+15/11/2023 21:14:08: Run time: 0.000031
+15/11/2023 21:14:08: OnBnClickedButtonBacktrackingGreedy
+15/11/2023 21:14:08: Run time: 0.000036
+15/11/2023 21:14:09: Close executable: C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe

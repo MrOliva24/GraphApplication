@@ -1,0 +1,13 @@
+27/11/2023 10:11:45: Open executable: C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe
+27/11/2023 10:11:45: Command line: "C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe" 
+27/11/2023 10:11:45: Nom Alumne 1: David
+27/11/2023 10:11:45: Cognoms Alumne : Ruiz CÃ¡ceres
+27/11/2023 10:11:45: NIU Alumne 1: 1672891
+27/11/2023 10:11:45: Nom Alumne 2: Marc
+27/11/2023 10:11:45: Cognoms Alumne 2: Roig Oliva
+27/11/2023 10:11:45: NIU Alumne 2: 1668300
+27/11/2023 10:11:49: OnBnClickedButtonLoadGraph C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestSalesMan\Simple.GR
+27/11/2023 10:11:49: OK
+27/11/2023 10:11:56: OnBnClickedButtonLoadVisits C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestSalesMan\Simple.VIS
+27/11/2023 10:11:57: OnBnClickedButtonBranchBound1
+27/11/2023 10:11:57: Run time: 0.000029

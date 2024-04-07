@@ -1,0 +1,13 @@
+09/10/2023 10:30:55: Open executable: C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe
+09/10/2023 10:30:55: Command line: "C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe" 
+09/10/2023 10:30:55: Nom Alumne 1: David
+09/10/2023 10:30:55: Cognoms Alumne : Ruiz CÃ¡ceres
+09/10/2023 10:30:55: NIU Alumne 1: 1672891
+09/10/2023 10:30:55: Nom Alumne 2: nombre del alumno 2
+09/10/2023 10:30:55: Cognoms Alumne 2: apellidos del alumno 2
+09/10/2023 10:30:55: NIU Alumne 2: 
+09/10/2023 10:30:58: ERROR: No es poden calcular distancies en un graf sense vertex
+09/10/2023 10:31:08: OnBnClickedButtonLoadGraph C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestDijkstra\Graf10.GR
+09/10/2023 10:31:08: OK
+09/10/2023 10:31:12: OnBnClickedButtonLoadDistances C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestDijkstra\Graf10.DIS
+09/10/2023 10:31:14: OnBnClickedButtonDijkstra

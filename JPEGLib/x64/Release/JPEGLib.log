@@ -1,0 +1,67 @@
+﻿  djpeg.c
+  jcapimin.c
+  jcapistd.c
+  jccoefct.c
+  jccolor.c
+  jcdctmgr.c
+  jchuff.c
+  jcinit.c
+  jcmainct.c
+  jcmarker.c
+  jcmaster.c
+  jcomapi.c
+  jcparam.c
+  jcphuff.c
+  jcprepct.c
+  jcsample.c
+  jctrans.c
+  jdapimin.c
+  jdapistd.c
+  jdatadst.c
+  Compilando...
+  jdatasrc.c
+  jdcoefct.c
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  jdmaster.c
+  jdmerge.c
+  jdphuff.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jerror.c
+  jfdctflt.c
+  jfdctfst.c
+  jfdctint.c
+  jidctflt.c
+  jidctfst.c
+  Compilando...
+  jidctint.c
+  jidctred.c
+  jmemansi.c
+  jmemmgr.c
+D:\Downloads\Trabajos\MatCAD\MATCAD\SEGUNDO\GraphApplication\JPEGLib\jmemmgr.c(307,47): warning C4267: '+=': conversión de 'size_t' a 'long'; posible pérdida de datos
+D:\Downloads\Trabajos\MatCAD\MATCAD\SEGUNDO\GraphApplication\JPEGLib\jmemmgr.c(367,46): warning C4267: '+=': conversión de 'size_t' a 'long'; posible pérdida de datos
+D:\Downloads\Trabajos\MatCAD\MATCAD\SEGUNDO\GraphApplication\JPEGLib\jmemmgr.c(977,35): warning C4267: '-=': conversión de 'size_t' a 'long'; posible pérdida de datos
+D:\Downloads\Trabajos\MatCAD\MATCAD\SEGUNDO\GraphApplication\JPEGLib\jmemmgr.c(991,35): warning C4267: '-=': conversión de 'size_t' a 'long'; posible pérdida de datos
+  jquant1.c
+  jquant2.c
+  jutils.c
+  rdbmp.c
+  rdcolmap.c
+  rdgif.c
+  rdppm.c
+  rdrle.c
+  rdswitch.c
+  rdtarga.c
+  transupp.c
+  wrbmp.c
+  wrgif.c
+  wrppm.c
+  wrrle.c
+  wrtarga.c
+  JPEGLib.vcxproj -> D:\Downloads\Trabajos\MatCAD\MATCAD\SEGUNDO\GraphApplication\x64\Release\JPEGLib.lib

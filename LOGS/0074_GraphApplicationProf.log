@@ -1,0 +1,15 @@
+14/10/2023 16:12:53: Open executable: C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe
+14/10/2023 16:12:53: Command line: "C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe" 
+14/10/2023 16:12:53: Nom Alumne 1: David
+14/10/2023 16:12:53: Cognoms Alumne : Ruiz CÃ¡ceres
+14/10/2023 16:12:53: NIU Alumne 1: 1672891
+14/10/2023 16:12:53: Nom Alumne 2: nombre del alumno 2
+14/10/2023 16:12:53: Cognoms Alumne 2: apellidos del alumno 2
+14/10/2023 16:12:53: NIU Alumne 2: 
+14/10/2023 16:13:06: OnBnClickedButtonLoadGraph C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestDijkstra\Desconectat.GR
+14/10/2023 16:13:06: OK
+14/10/2023 16:13:12: OnBnClickedButtonLoadDistances C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestDijkstra\Desconectat.DIS
+14/10/2023 16:13:30: OnBnClickedButtonLoadGraph C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestSalesMan\Graf10_20_3.GR
+14/10/2023 16:13:30: OK
+14/10/2023 16:13:41: OnBnClickedButtonLoadVisits C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestSalesMan\Graf10_20_3.VIS
+14/10/2023 16:13:44: OnBnClickedButtonGreedy

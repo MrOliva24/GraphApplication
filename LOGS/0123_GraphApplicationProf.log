@@ -1,0 +1,46 @@
+26/11/2023 21:04:29: Open executable: C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe
+26/11/2023 21:04:29: Command line: "C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe" 
+26/11/2023 21:04:29: Nom Alumne 1: David
+26/11/2023 21:04:29: Cognoms Alumne : Ruiz CÃ¡ceres
+26/11/2023 21:04:29: NIU Alumne 1: 1672891
+26/11/2023 21:04:29: Nom Alumne 2: Marc
+26/11/2023 21:04:29: Cognoms Alumne 2: Roig Oliva
+26/11/2023 21:04:29: NIU Alumne 2: 1668300
+26/11/2023 21:04:37: OnBnClickedButtonLoadGraph C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestSalesMan\Graf10_20_6.GR
+26/11/2023 21:04:37: OK
+26/11/2023 21:04:41: OnBnClickedButtonLoadVisits C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestSalesMan\Graf10_20_6.VIS
+26/11/2023 21:04:43: OnBnClickedButtonBranchBound1
+26/11/2023 21:04:43: Run time: 0.000045
+26/11/2023 21:04:45: OnBnClickedButtonBranchBound2
+26/11/2023 21:04:45: Run time: 0.000136
+26/11/2023 21:04:46: OnBnClickedButtonBranchBound1
+26/11/2023 21:04:46: Run time: 0.000040
+26/11/2023 21:04:49: OnBnClickedButtonBranchBound2
+26/11/2023 21:04:49: Run time: 0.000139
+26/11/2023 21:04:51: OnBnClickedButtonBranchBound1
+26/11/2023 21:04:51: Run time: 0.000034
+26/11/2023 21:04:53: OnBnClickedButtonBranchBound2
+26/11/2023 21:04:53: Run time: 0.000221
+26/11/2023 21:04:55: OnBnClickedButtonBranchBound1
+26/11/2023 21:04:55: Run time: 0.000041
+26/11/2023 21:04:57: OnBnClickedButtonBranchBound2
+26/11/2023 21:04:57: Run time: 0.000303
+26/11/2023 21:05:00: OnBnClickedButtonBranchBound1
+26/11/2023 21:05:00: Run time: 0.000036
+26/11/2023 21:05:01: OnBnClickedButtonBranchBound2
+26/11/2023 21:05:01: Run time: 0.000126
+26/11/2023 21:05:03: OnBnClickedButtonBranchBound1
+26/11/2023 21:05:03: Run time: 0.000065
+26/11/2023 21:05:04: OnBnClickedButtonBranchBound2
+26/11/2023 21:05:04: Run time: 0.000286
+26/11/2023 21:05:05: OnBnClickedButtonBranchBound3
+26/11/2023 21:05:05: Run time: 0.000047
+26/11/2023 21:05:05: OnBnClickedButtonBranchBound2
+26/11/2023 21:05:05: Run time: 0.000334
+26/11/2023 21:05:05: OnBnClickedButtonBranchBound3
+26/11/2023 21:05:05: Run time: 0.000059
+26/11/2023 21:05:06: OnBnClickedButtonBranchBound1
+26/11/2023 21:05:06: Run time: 0.000032
+26/11/2023 21:05:07: OnBnClickedButtonBranchBound2
+26/11/2023 21:05:07: Run time: 0.000263
+26/11/2023 21:05:19: Close executable: C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe

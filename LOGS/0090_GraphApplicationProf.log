@@ -1,0 +1,43 @@
+11/11/2023 19:19:29: Open executable: C:\Users\David\Desktop\Universidad\2∫\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe
+11/11/2023 19:19:29: Command line: "C:\Users\David\Desktop\Universidad\2∫\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe" 
+11/11/2023 19:19:29: Nom Alumne 1: David
+11/11/2023 19:19:29: Cognoms Alumne : Ruiz C√°ceres
+11/11/2023 19:19:29: NIU Alumne 1: 1672891
+11/11/2023 19:19:29: Nom Alumne 2: nombre del alumno 2
+11/11/2023 19:19:29: Cognoms Alumne 2: apellidos del alumno 2
+11/11/2023 19:19:29: NIU Alumne 2: 
+11/11/2023 19:19:41: OnBnClickedButtonLoadGraph C:\Users\David\Desktop\Universidad\2∫\1er Semestre\TDA\GraphApplication\TestSalesMan\Graf10_20_3.GR
+11/11/2023 19:19:41: OK
+11/11/2023 19:19:45: OnBnClickedButtonLoadVisits C:\Users\David\Desktop\Universidad\2∫\1er Semestre\TDA\GraphApplication\TestSalesMan\Graf10_20_3.VIS
+11/11/2023 19:19:48: OnBnClickedButtonTrobaCami1
+11/11/2023 19:19:48: ERROR: CGraph::GetVertex: no se ha encontrado un v√©rtice del grafo con nombre: INICI
+11/11/2023 19:19:58: OnBnClickedButtonGreedy
+11/11/2023 19:19:58: Run time: 0.000028
+11/11/2023 19:20:20: OnBnClickedButtonBacktracking
+11/11/2023 19:20:20: Run time: 0.000006
+11/11/2023 19:20:21: OnBnClickedButtonBacktrackingGreedy
+11/11/2023 19:20:21: Run time: 0.000004
+11/11/2023 19:20:22: OnBnClickedButtonBranchBound1
+11/11/2023 19:20:22: Run time: 0.000003
+11/11/2023 19:20:22: OnBnClickedButtonProbabilistic
+11/11/2023 19:20:22: Run time: 0.000003
+11/11/2023 19:20:23: OnBnClickedButtonDynamicProgramming
+11/11/2023 19:20:23: Run time: 0.000004
+11/11/2023 19:20:23: OnBnClickedButtonBranchBound3
+11/11/2023 19:20:23: Run time: 0.000004
+11/11/2023 19:20:24: OnBnClickedButtonBranchBound2
+11/11/2023 19:20:24: Run time: 0.000161
+11/11/2023 19:20:26: OnBnClickedButtonPrim
+11/11/2023 19:20:26: Run time: 0.000037
+11/11/2023 19:20:27: OnBnClickedButtonKruskal
+11/11/2023 19:20:27: Run time: 0.000015
+11/11/2023 19:20:28: OnBnClickedButtonPrim
+11/11/2023 19:20:28: Run time: 0.000014
+11/11/2023 19:20:29: OnBnClickedButtonKruskal
+11/11/2023 19:20:29: Run time: 0.000026
+11/11/2023 19:20:29: OnBnClickedButtonPrim
+11/11/2023 19:20:29: Run time: 0.000011
+11/11/2023 19:20:29: OnBnClickedButtonQuickHull
+11/11/2023 19:20:29: Run time: 0.000026
+11/11/2023 19:20:32: OnBnClickedButtonGreedy
+11/11/2023 19:20:32: Run time: 0.000011

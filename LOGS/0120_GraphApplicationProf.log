@@ -1,0 +1,27 @@
+26/11/2023 18:32:06: Open executable: C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe
+26/11/2023 18:32:06: Command line: "C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe" 
+26/11/2023 18:32:06: Nom Alumne 1: David
+26/11/2023 18:32:06: Cognoms Alumne : Ruiz CÃ¡ceres
+26/11/2023 18:32:06: NIU Alumne 1: 1672891
+26/11/2023 18:32:06: Nom Alumne 2: Marc
+26/11/2023 18:32:06: Cognoms Alumne 2: Roig Oliva
+26/11/2023 18:32:06: NIU Alumne 2: 1668300
+26/11/2023 18:32:13: OnBnClickedButtonLoadGraph C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestSalesMan\Simple.GR
+26/11/2023 18:32:13: OK
+26/11/2023 18:32:18: OnBnClickedButtonLoadVisits C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestSalesMan\Simple.VIS
+26/11/2023 18:32:20: OnBnClickedButtonBacktrackingGreedy
+26/11/2023 18:32:20: Run time: 0.000006
+26/11/2023 18:32:22: OnBnClickedButtonBranchBound1
+26/11/2023 18:32:22: Run time: 0.000040
+26/11/2023 18:32:22: OnBnClickedButtonBranchBound1
+26/11/2023 18:32:22: Run time: 0.000007
+26/11/2023 18:32:23: OnBnClickedButtonBranchBound1
+26/11/2023 18:32:23: Run time: 0.000009
+26/11/2023 18:32:24: OnBnClickedButtonBranchBound1
+26/11/2023 18:32:24: Run time: 0.000008
+26/11/2023 18:32:30: OnBnClickedButtonLoadGraph C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestSalesMan\Simple.GR
+26/11/2023 18:32:30: OK
+26/11/2023 18:32:34: OnBnClickedButtonLoadVisits C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestSalesMan\Simple.VIS
+26/11/2023 18:32:36: OnBnClickedButtonBranchBound1
+26/11/2023 18:32:36: Run time: 0.000008
+26/11/2023 18:32:54: Close executable: C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe

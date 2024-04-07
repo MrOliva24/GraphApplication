@@ -1,0 +1,14 @@
+10/10/2023 11:20:03: Open executable: C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe
+10/10/2023 11:20:03: Command line: "C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe" 
+10/10/2023 11:20:03: Nom Alumne 1: David
+10/10/2023 11:20:03: Cognoms Alumne : Ruiz CÃ¡ceres
+10/10/2023 11:20:03: NIU Alumne 1: 1672891
+10/10/2023 11:20:03: Nom Alumne 2: nombre del alumno 2
+10/10/2023 11:20:03: Cognoms Alumne 2: apellidos del alumno 2
+10/10/2023 11:20:03: NIU Alumne 2: 
+10/10/2023 11:20:08: OnBnClickedButtonLoadGraph C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestDijkstra\Graf100.GR
+10/10/2023 11:20:08: OK
+10/10/2023 11:20:12: OnBnClickedButtonLoadDistances C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestDijkstra\Graf100.DIS
+10/10/2023 11:20:15: OnBnClickedButtonDijkstra
+10/10/2023 11:20:15: Run time: 0.001276
+10/10/2023 11:20:16: Close executable: C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe

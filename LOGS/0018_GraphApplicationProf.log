@@ -1,0 +1,42 @@
+09/10/2023 10:19:00: Open executable: C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe
+09/10/2023 10:19:00: Command line: "C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe" 
+09/10/2023 10:19:00: Nom Alumne 1: David
+09/10/2023 10:19:00: Cognoms Alumne : Ruiz CÃ¡ceres
+09/10/2023 10:19:00: NIU Alumne 1: 1672891
+09/10/2023 10:19:00: Nom Alumne 2: nombre del alumno 2
+09/10/2023 10:19:00: Cognoms Alumne 2: apellidos del alumno 2
+09/10/2023 10:19:00: NIU Alumne 2: 
+09/10/2023 10:20:13: OnBnClickedButtonLoadGraph C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\Exemples\metro2.GR
+09/10/2023 10:20:14: OK
+09/10/2023 10:20:17: OnBnClickedButtonDijkstra
+09/10/2023 10:20:17: Run time: 0.000000
+09/10/2023 10:20:19: OnBnClickedButtonDijkstra
+09/10/2023 10:20:19: Run time: 0.000000
+09/10/2023 10:20:20: OnBnClickedButtonDijkstra
+09/10/2023 10:20:20: Run time: 0.000000
+09/10/2023 10:20:27: OnBnClickedButtonLoadGraph C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\Exemples\UAB complet.GR
+09/10/2023 10:20:27: OK
+09/10/2023 10:20:29: OnBnClickedButtonDijkstra
+09/10/2023 10:20:29: Run time: 0.000000
+09/10/2023 10:20:55: OnBnClickedButtonLoadGraph C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\Exemples\Graf10_20_6_EjemploBB3.VIS
+09/10/2023 10:20:55: ERROR: Falta la capcalera GRAPH 1.0 al fitxer C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\Exemples\Graf10_20_6_EjemploBB3.VIS
+09/10/2023 10:21:10: OnBnClickedButtonLoadGraph C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\Exemples\Graf10_20_6 Demo BB.GR
+09/10/2023 10:21:10: OK
+09/10/2023 10:21:12: OnBnClickedButtonDijkstra
+09/10/2023 10:21:12: Run time: 0.000000
+09/10/2023 10:21:48: OnBnClickedButtonLoadGraph C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestDijkstra\Graf100.GR
+09/10/2023 10:21:48: OK
+09/10/2023 10:21:50: OnBnClickedButtonDijkstra
+09/10/2023 10:21:50: Run time: 0.000000
+09/10/2023 10:22:07: OnBnClickedButtonLoadDistances C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\TestDijkstra\Graf100.DIS
+09/10/2023 10:22:08: OnBnClickedButtonDijkstra
+09/10/2023 10:22:08: Run time: 0.000000
+09/10/2023 10:22:08: OnBnClickedButtonDijkstra
+09/10/2023 10:22:08: Run time: 0.000000
+09/10/2023 10:22:09: OnBnClickedButtonDijkstra
+09/10/2023 10:22:09: Run time: 0.000000
+09/10/2023 10:22:09: OnBnClickedButtonDijkstra
+09/10/2023 10:22:09: Run time: 0.000000
+09/10/2023 10:22:09: OnBnClickedButtonDijkstra
+09/10/2023 10:22:09: Run time: 0.000000
+09/10/2023 10:22:11: Close executable: C:\Users\David\Desktop\Universidad\2º\1er Semestre\TDA\GraphApplication\x64\Release\GraphApplication.exe
